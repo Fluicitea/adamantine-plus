@@ -19,9 +19,9 @@ Main Features:
       - These are about 1/3 the size of a normal ingot. This will be important later.
     - Use an Adamantine Forge (requires lava for fuel) to create Adamantine gear.
       - Don't worry! The forge only uses fuel while you're forging gear.
-- Obsidian gear!
+- Obsidian tools!
   - Smelt Obsidian in a furnace to get one Obsidian gem.
-  - Turn these Obsidian gems into gear like normal, or into Obsidian glass (storage block).
+  - Turn these Obsidian gems into tools like normal, or into Obsidian glass (storage block).
 - Adds Copper, Lead and some other optional metals.
   - Found like any other ore in the game, at various (configurable) rates and depths.
 - Copper and Lead harvest levels!
