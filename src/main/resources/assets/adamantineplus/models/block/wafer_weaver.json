@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "adamantineplus:blocks/wafer_weaver_front_off",
+        "up": "adamantineplus:blocks/wafer_weaver_top",
+        "down": "adamantineplus:blocks/wafer_weaver_bottom",
+        "north": "adamantineplus:blocks/wafer_weaver_front_off",
+        "east": "adamantineplus:blocks/wafer_weaver_side1",
+        "south": "adamantineplus:blocks/wafer_weaver_side2",
+        "west": "adamantineplus:blocks/wafer_weaver_side3"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  d",
+        " i ",
+        "e  "
+    ],
+    "key": {
+        "d":{
+            "item": "minecraft:diamond"
+        },
+        "e": {
+            "item": "minecraft:emerald"
+        },
+        "i": {
+            "item": "adamantineplus:iron_rod"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:weaver_arm",
+        "count": 1
+    }
+}

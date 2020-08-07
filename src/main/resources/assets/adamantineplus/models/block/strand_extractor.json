@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "adamantineplus:blocks/strand_extractor_front_off",
+        "up": "adamantineplus:blocks/strand_extractor_top",
+        "down": "adamantineplus:blocks/strand_extractor_bottom",
+        "north": "adamantineplus:blocks/strand_extractor_front_off",
+        "east": "adamantineplus:blocks/strand_extractor_side1",
+        "south": "adamantineplus:blocks/strand_extractor_side2",
+        "west": "adamantineplus:blocks/strand_extractor_side3"
+    }
+}

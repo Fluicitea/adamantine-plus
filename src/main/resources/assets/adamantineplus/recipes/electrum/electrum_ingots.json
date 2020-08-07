@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:electrum_ingot"
+        }
+    ],
+    "ingredients": [ 
+        {"item": "adamantineplus:electrum_block"}
+    ],
+    "result": {
+        "item": "adamantineplus:electrum_ingot",
+        "count": 9
+    }
+}

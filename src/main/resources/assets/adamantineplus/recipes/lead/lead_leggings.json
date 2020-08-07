@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "L L",
+        "L L"
+    ],
+    "key": {
+        "L": {
+            "item": "adamantineplus:lead_ingot"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:lead_leggings",
+        "count": 1
+    }
+}

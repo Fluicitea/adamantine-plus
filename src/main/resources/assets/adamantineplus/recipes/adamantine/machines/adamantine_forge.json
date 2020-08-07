@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "OOO",
+      "OFO",
+      "OOO"
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:furnace"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "adamantineplus:adamantine_forge",
+      "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  d",
+        " i ",
+        "i  "
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:diamond"
+        },
+        "i": {
+            "item": "adamantineplus:iron_rod"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:extractor_arm",
+        "count": 1
+    }
+}

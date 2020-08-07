@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "lll",
+        "lll"
+    ],
+    "key": {
+        "l": {
+            "item": "adamantineplus:lead_nugget"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:lead_ingot",
+        "count": 1
+    }
+}

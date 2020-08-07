@@ -1,0 +1,15 @@
+[
+    {
+        "modid": "adamantineplus",
+        "name": "Adamantine+",
+        "description": "A mod that adds Adamantine and more.",
+        "version": "1.12.2-1.0.0",
+        "mcversion": "1.12.2",
+        "url": "",
+        "updateUrl": "",
+        "authorList":["ShadowVappy", "koideka"],
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

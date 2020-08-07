@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " a ",
+        "aFa",
+        "OOO"
+    ],
+    "key": {
+        "a": {
+            "item": "adamantineplus:weaver_arm"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:wafer_weaver",
+        "count": 1
+    }
+}

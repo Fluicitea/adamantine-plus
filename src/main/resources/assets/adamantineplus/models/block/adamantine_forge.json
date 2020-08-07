@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "adamantineplus:blocks/adamantine_forge_front_off",
+    "up": "adamantineplus:blocks/adamantine_forge_top",
+    "down": "adamantineplus:blocks/adamantine_forge_bottom",
+    "north": "adamantineplus:blocks/adamantine_forge_front_off",
+    "east": "adamantineplus:blocks/adamantine_forge_side1",
+    "south": "adamantineplus:blocks/adamantine_forge_side2",
+    "west": "adamantineplus:blocks/adamantine_forge_side3"
+  }
+}

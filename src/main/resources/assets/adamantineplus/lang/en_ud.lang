@@ -1,0 +1,183 @@
+######################
+#      Main Mod      #
+######################
+
+##Creative Tabs##
+itemGroup.adamantineplus.general=ꞁɐɹǝuǝ⅁ +ǝuᴉʇuɐɯɐpⱯ
+itemGroup.adamantineplus.tools=sꞁoo⟘ +ǝuᴉʇuɐɯɐpⱯ
+itemGroup.adamantineplus.combat=ʇɐqɯoƆ +ǝuᴉʇuɐɯɐpⱯ
+
+##Items##
+# Copper Items
+item.adamantineplus:copper_nugget.name=ʇǝᵷᵷnN ɹǝddoƆ
+item.adamantineplus:copper_ingot.name=ʇoᵷuI ɹǝddoƆ
+# Lead Items
+item.adamantineplus:lead_nugget.name=ʇǝᵷᵷnN pɐǝꞀ
+item.adamantineplus:lead_ingot.name=ʇoᵷuI pɐǝꞀ
+# Silver Items
+item.adamantineplus:silver_nugget.name=ʇǝƃƃnN ɹǝʌlᴉS
+item.adamantineplus:silver_ingot.name=ʇoᵷuI ɹǝʌlᴉS
+# Adamantine Items
+item.adamantineplus:raw_adamantine.name=ǝuᴉʇuɐɯɐpⱯ ʍɐɹ
+item.adamantineplus:adamantine_strand.name=puɐɹʇS ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_wafer.name=ɹǝɟɐM ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:iron_rod.name=poᴚ uoɹI
+item.adamantineplus:extractor_arm.name=ɯɹ∀ ɹoʇɔɐɹʇxƎ
+item.adamantineplus:weaver_arm.name=ɯɹ∀ ɹǝʌɐǝM
+item.adamantineplus:dwarven_scroll.name=lloɹɔS uǝʌɹɐʍᗡ
+
+##Blocks##
+# Copper Blocks
+tile.adamantineplus:copper_ore.name=ǝɹO ɹǝddoƆ
+tile.adamantineplus:copper_block.name=ɹǝddoƆ ɟo ʞɔolᗺ
+# Lead Blocks
+tile.adamantineplus:lead_ore.name=ǝɹO pɐǝꞀ
+tile.adamantineplus:lead_block.name=pɐǝꞀ ɟo ʞɔolᗺ
+# Silver Blocks
+tile.adamantineplus:silver_ore.name=ǝɹO ɹǝʌlᴉS
+tile.adamantineplus:silver_block.name=ɹǝʌlᴉS ɟo ʞɔolᗺ
+# Adamantine Blocks
+tile.adamantineplus:adamantine_ore.name=ǝɹO ǝuᴉʇuɐɯɐp∀
+tile.adamantineplus:adamantine_block.name=ǝuᴉʇuɐɯɐp∀ ɟo ʞɔolᗺ
+# Machines
+tile.adamantineplus:strand_extractor.name=ɹoʇɔɐɹʇxƎ puɐɹʇS
+container.strand_extractor=ɹoʇɔɐɹʇxƎ puɐɹʇS
+tile.adamantineplus:wafer_weaver.name=ɹǝʌɐǝM ɹǝɟɐM
+container.wafer_weaver=ɹǝʌɐǝM ɹǝɟɐM
+tile.adamantineplus:adamantine_forge.name=ǝᵷɹoℲ ǝuᴉʇuɐɯɐpⱯ
+container.adamantine_forge=ǝƃɹoℲ ǝuᴉʇuɐɯɐpⱯ
+
+##Tools##
+# Copper Tools
+item.adamantineplus:copper_sword.name=pɹoʍS ɹǝddoƆ
+item.adamantineplus:copper_pickaxe.name=ǝxɐʞɔᴉԀ ɹǝddoƆ
+item.adamantineplus:copper_axe.name=ǝxⱯ ɹǝddoƆ
+item.adamantineplus:copper_shovel.name=ꞁǝʌoɥS ɹǝddoƆ
+item.adamantineplus:copper_hoe.name=ǝoH ɹǝddoƆ
+# Lead Tools
+item.adamantineplus:lead_sword.name=pɹoʍS pɐǝꞀ
+item.adamantineplus:lead_pickaxe.name=ǝxɐʞɔᴉԀ pɐǝꞀ
+item.adamantineplus:lead_axe.name=ǝxⱯ pɐǝꞀ
+item.adamantineplus:lead_shovel.name=lǝʌoɥS pɐǝꞀ
+item.adamantineplus:lead_hoe.name=ǝoH pɐǝꞀ
+# Silver Tools
+item.adamantineplus:silver_sword.name=pɹoʍS ɹǝʌlᴉS
+item.adamantineplus:silver_pickaxe.name=ǝxɐʞɔᴉԀ ɹǝʌlᴉS
+item.adamantineplus:silver_axe.name=ǝxⱯ ɹǝʌlᴉS
+item.adamantineplus:silver_shovel.name=lǝʌoɥS ɹǝʌlᴉS
+item.adamantineplus:silver_hoe.name=ǝoH ɹǝʌlᴉS
+# Adamantine Tools
+item.adamantineplus:adamantine_sword.name=pɹoʍS ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_pickaxe.name=ǝxɐʞɔᴉԀ ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_axe.name=ǝxⱯ ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_shovel.name=lǝʌoɥS ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_hoe.name=ǝoH ǝuᴉʇuɐɯɐpⱯ
+
+##Armor##
+# Copper Armor
+item.adamantineplus:copper_helmet.name=ʇǝɯlǝH ɹǝddoƆ
+item.adamantineplus:copper_chestplate.name=ǝʇɐldʇsǝɥƆ ɹǝddoƆ
+item.adamantineplus:copper_leggings.name=sᵷuᴉᵷᵷǝꞀ ɹǝddoƆ
+item.adamantineplus:copper_boots.name=sʇooᗺ ɹǝddoƆ
+# Lead Armor
+item.adamantineplus:lead_helmet.name=ʇǝɯlǝH pɐǝꞀ
+item.adamantineplus:lead_chestplate.name=ǝʇɐldʇsǝɥƆ pɐǝꞀ
+item.adamantineplus:lead_leggings.name=sᵷuᴉᵷᵷǝꞀ pɐǝꞀ
+item.adamantineplus:lead_boots.name=sʇooᗺ pɐǝꞀ
+# Silver Armor
+item.adamantineplus:silver_helmet.name=ʇǝɯlǝH ɹǝʌlᴉS
+item.adamantineplus:silver_chestplate.name=ǝʇɐldʇsǝɥƆ ɹǝʌlᴉS
+item.adamantineplus:silver_leggings.name=sᵷuᴉᵷᵷǝꞀ ɹǝʌlᴉS
+item.adamantineplus:silver_boots.name=sʇooᗺ ɹǝʌlᴉS
+# Adamantine Armor
+item.adamantineplus:adamantine_helmet.name=ʇǝɯlǝH ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_chestplate.name=ǝʇɐldʇsǝɥƆ ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_leggings.name=sᵷuᴉᵷᵷǝꞀ ǝuᴉʇuɐɯɐpⱯ
+item.adamantineplus:adamantine_boots.name=sʇooᗺ ǝuᴉʇuɐɯɐpⱯ
+
+##Death Messages##
+death.attack.spiral_explosion.0=˙suʍolɔ ǝɥʇ pǝsɐǝlǝɹ %1$s
+death.attack.spiral_explosion.0.again=˙suʍolɔ ǝɹoɯ pǝsɐǝlǝɹ %1$s
+death.attack.spiral_explosion.1=˙pǝuuᴉs %1$s
+death.attack.spiral_explosion.1.again=˙uᴉɐᵷɐ pǝuuᴉs %1$s
+death.attack.spiral_explosion.2=˙unℲ ᵷuᴉʌɐɥ sᴉ %1$s
+death.attack.spiral_explosion.2.again=˙unℲ ǝɹoɯ pǝʇuɐʍ %1$s
+death.attack.spiral_explosion.3=˙ʎlssǝlǝɹɐɔ ᵷnp %1$s
+death.attack.spiral_explosion.3.again=˙ʎlssǝlǝɹɐɔ ᵷnp uᴉɐᵷɐ ǝɔuo %1$s
+death.attack.spiral_explosion.stop=¿ʇᴉ ᵷuᴉop dǝǝʞ noʎ op ʎɥʍ 'noʎ ᵷuᴉllᴉʞ sᴉ slɐɹᴉds uǝdo ᵷuᴉʞɐǝɹᗺ
+
+######################
+# Tinkers' Construct #
+######################
+
+##Tinkers Items##
+# Electrum Items
+item.adamantineplus:electrum_nugget.name=ʇǝᵷᵷnN ɯnɹʇɔǝlƎ
+item.adamantineplus:electrum_ingot.name=ʇoᵷuI ɯnɹʇɔǝlƎ
+# Obsidian Items
+item.adamantineplus:obsidian_chip.name=dᴉɥƆ uɐᴉpᴉsqO
+item.adamantineplus:obsidian_gem.name=ɯǝפ uɐᴉpᴉsqO
+
+##Tinkers Blocks##
+# Electrum Blocks
+tile.adamantineplus:electrum_block.name=ɯnɹʇɔǝlƎ ɟo ʞɔolᗺ
+# Obsidian Blocks
+tile.adamantineplus:obsidian_glass.name=ssɐlפ uɐᴉpᴉsqO
+
+##Tinkers Materials##
+material.adamantine.name=ǝuᴉʇuɐɯɐpⱯ
+
+##Tinkers Traits##
+modifier.adamantine_edge.name=ǝᵷpƎ ǝuᴉʇuɐɯɐpⱯ
+modifier.adamantine_edge.desc=§oDescription Title§r\nMain Description
+modifier.durable.name=ǝlqɐɹnᗡ
+modifier.durable.desc=§oDescription Title§r\nMain Description
+modifier.durable.extra=+%s :ʎʇᴉlᴉqɐɹnᗡ snuoᗺ
+modifier.adamantine_resistance_armor.name=ǝɔuɐʇsᴉsǝᴚ ǝuᴉʇuɐɯɐpⱯ
+modifier.adamantine_resistance_armor.desc=§oDescription Title§r\nMain Description
+modifier.durable_armor.name=modifier.durable.name
+modifier.durable_armor.desc=modifier.durable.desc
+modifier.durable_armor.extra=modifier.durable.extra
+
+##Tinkers Fluids##
+fluid.adamantine.name=ǝuᴉʇuɐɯɐpⱯ uǝʇloW
+
+######################
+#     Config GUI     #
+######################
+
+##Config Title##
+adamantineplus.config.title=ᵷᴉɟuoƆ +ǝuᴉʇuɐɯɐpⱯ
+
+##General Config##
+adamantineplus.general.addsilver=ɹǝʌlᴉS ppⱯ
+adamantineplus.general.addsilver.tooltip=˙ǝɯɐƃ ǝɥʇ oʇ ɹǝʌlᴉs sppɐ 'ǝnɹʇ ɟI
+
+
+##Tinkers Integration Config##
+adamantineplus.general.tinker_integration=uoᴉʇɐɹᵷǝʇuI ,sɹǝʞuᴉ⟘
+adamantineplus.general.tinker_integration.tooltip=˙ʇɔnɹʇsuoƆ ,sɹǝʞuᴉ⟘ oʇuᴉ uoᴉʇɐɹᵷǝʇuᴉ ʇɔǝɟɟɐ ʇɐɥʇ sᵷuᴉʇʇǝS
+#adamantineplus.general.tinker_integration.replacealubrassrecipe=ʎoll∀ ssɐɹᗺ ɯnᴉuᴉɯnl∀ ǝɔɐldǝᴚ
+#adamantineplus.general.tinker_integration.replacealubrassrecipe.tooltip=˙(ɯnᴉuᴉɯnlɐ Ɩ 'ssɐɹq 6) ǝuo ǝʇɐɹnɔɔɐ ǝɹoɯ ɐ ɥʇᴉʍ (ɹǝddoɔ Ɩ 'ɯnuᴉɯnlɐ Ɛ) ǝdᴉɔǝɹ ʎollɐ ssɐɹq ɯnᴉuᴉɯnlɐ sǝɔɐldǝɹ 'ǝnɹʇ ɟI
+adamantineplus.general.tinker_integration.addelectrum=ɯnɹʇɔǝlƎ ppⱯ
+adamantineplus.general.tinker_integration.addelectrum.tooltip=˙ʇɔnɹʇsuoƆ ,sɹǝʞuᴉ⟘ uᴉ ǝsn ɹoɟ ɯnɹʇɔǝlǝ sppɐ 'ǝnɹʇ ɟI
+adamantineplus.general.tinker_integration.addobsidianitems=sɯǝʇI uɐᴉpᴉsqO ppⱯ
+adamantineplus.general.tinker_integration.addobsidianitems.tooltip=˙uɐᴉpᴉsqo ɹoɟ (ʞɔolq) ssɐlᵷ puɐ (ʇǝᵷᵷnu) dᴉɥɔ '(ʇoᵷuᴉ) ɯǝᵷ sppɐ 'ǝnɹʇ ɟI
+
+##World Gen Config##
+adamantineplus.general.world_gen=uǝפ plɹoM
+adamantineplus.general.world_gen.tooltip=˙poɯ ǝɥʇ ɟo uoᴉʇɐɹǝuǝᵷ plɹoʍ ǝɥʇ ʇɔǝɟɟɐ ʇɐɥʇ sᵷuᴉʇʇǝS
+adamantineplus.general.world_gen.copperspawnheight=ʇɥᵷᴉǝH uʍɐdS ɹǝddoƆ
+adamantineplus.general.world_gen.copperspawnheight.tooltip=˙ǝɹo ɹǝddoɔ ɹoɟ ʇɥᵷᴉǝɥ uʍɐds ɯnɯᴉxɐɯ ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.copperspawnchances=sǝɔuɐɥƆ uʍɐdS ɹǝddoƆ
+adamantineplus.general.world_gen.copperspawnchances.tooltip=˙ǝɹo ɹǝddoɔ ɹoɟ sǝɔuɐɥɔ uʍɐds ɟo ɹǝqɯnu ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.leadspawnheight=ʇɥᵷᴉǝH uʍɐdS pɐǝꞀ
+adamantineplus.general.world_gen.leadspawnheight.tooltip=˙ǝɹo pɐǝl ɹoɟ ʇɥᵷᴉǝɥ uʍɐds ɯnɯᴉxɐɯ ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.leadspawnchances=sǝɔuɐɥƆ uʍɐdS pɐǝꞀ
+adamantineplus.general.world_gen.leadspawnchances.tooltip=˙ǝɹo pɐǝl ɹoɟ sǝɔuɐɥɔ uʍɐds ɟo ɹǝqɯnu ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.silverspawnheight=ʇɥᵷᴉǝH uʍɐdS ɹǝʌlᴉS
+adamantineplus.general.world_gen.silverspawnheight.tooltip=˙ǝɹo ɹǝʌlᴉs ɹoɟ ʇɥᵷᴉǝɥ uʍɐds ɯnɯᴉxɐɯ ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.silverspawnchances=sǝɔuɐɥƆ uʍɐdS ɹǝʌlᴉS
+adamantineplus.general.world_gen.silverspawnchances.tooltip=˙ǝɹo ɹǝʌlᴉs ɹoɟ sǝɔuɐɥɔ uʍɐds ɟo ɹǝqɯnu ǝɥʇ sʇǝS
+adamantineplus.general.world_gen.spiralrarity=ʎʇᴉɹɐᴚ lɐɹᴉdS
+adamantineplus.general.world_gen.spiralrarity.tooltip=˙ƃuᴉuʍɐds lɐɹᴉds ɐ ɟo (ǝnlɐʌ sᴉɥʇ uᴉ ǝuo) ʎʇᴉɹɐɹ ǝɥʇ sʇǝS

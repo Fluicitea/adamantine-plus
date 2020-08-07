@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:silver_ingot"
+        }
+    ],
+    "ingredients": [ 
+        {"item": "adamantineplus:silver_block"}
+    ],
+    "result": {
+        "item": "adamantineplus:silver_ingot",
+        "count": 9
+    }
+}

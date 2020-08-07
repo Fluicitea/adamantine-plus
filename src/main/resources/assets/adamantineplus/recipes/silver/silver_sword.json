@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:silver_ingot"
+        }
+    ],
+    "pattern": [
+        " S ",
+        " S ",
+        " s "
+    ],
+    "key": {
+        "S": {
+            "item": "adamantineplus:silver_ingot"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:silver_sword",
+        "count": 1
+    }
+}

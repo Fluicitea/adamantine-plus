@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "C C",
+        "   "
+    ],
+    "key": {
+        "C": {
+            "item": "adamantineplus:copper_ingot"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:copper_helmet",
+        "count": 1
+    }
+}

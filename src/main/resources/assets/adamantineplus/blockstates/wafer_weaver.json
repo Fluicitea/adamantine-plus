@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": {"model": "adamantineplus:wafer_weaver"},
+        "burning=false,facing=east": {"model": "adamantineplus:wafer_weaver", "y": 90},
+        "burning=false,facing=south": {"model": "adamantineplus:wafer_weaver", "y": 180},
+        "burning=false,facing=west": {"model": "adamantineplus:wafer_weaver", "y": 270},
+        "burning=true,facing=north": {"model": "adamantineplus:lit_wafer_weaver"},
+        "burning=true,facing=east": {"model": "adamantineplus:lit_wafer_weaver", "y": 90},
+        "burning=true,facing=south": {"model": "adamantineplus:lit_wafer_weaver", "y": 180},
+        "burning=true,facing=west": {"model": "adamantineplus:lit_wafer_weaver", "y": 270}
+    }
+}

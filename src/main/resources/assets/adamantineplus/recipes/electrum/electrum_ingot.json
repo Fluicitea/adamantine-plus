@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:electrum_ingot"
+        }
+    ],
+    "pattern": [
+        "eee",
+        "eee",
+        "eee"
+    ],
+    "key": {
+        "e": {
+            "item": "adamantineplus:electrum_nugget"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:electrum_ingot",
+        "count": 1
+    }
+}

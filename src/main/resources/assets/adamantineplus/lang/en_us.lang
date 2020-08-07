@@ -1,0 +1,183 @@
+######################
+#      Main Mod      #
+######################
+
+##Creative Tabs##
+itemGroup.adamantineplus.general=Adamantine+ General
+itemGroup.adamantineplus.tools=Adamantine+ Tools
+itemGroup.adamantineplus.combat=Adamantine+ Combat
+
+##Items##
+# Copper Items
+item.adamantineplus:copper_nugget.name=Copper Nugget
+item.adamantineplus:copper_ingot.name=Copper Ingot
+# Lead Items
+item.adamantineplus:lead_nugget.name=Lead Nugget
+item.adamantineplus:lead_ingot.name=Lead Ingot
+# Silver Items
+item.adamantineplus:silver_nugget.name=Silver Nugget
+item.adamantineplus:silver_ingot.name=Silver Ingot
+# Adamantine Items
+item.adamantineplus:raw_adamantine.name=Raw Adamantine
+item.adamantineplus:adamantine_strand.name=Adamantine Strand
+item.adamantineplus:adamantine_wafer.name=Adamantine Wafer
+item.adamantineplus:iron_rod.name=Iron Rod
+item.adamantineplus:extractor_arm.name=Extractor Arm
+item.adamantineplus:weaver_arm.name=Weaver Arm
+item.adamantineplus:dwarven_scroll.name=Dwarven Scroll
+
+##Blocks##
+# Copper Blocks
+tile.adamantineplus:copper_ore.name=Copper Ore
+tile.adamantineplus:copper_block.name=Block of Copper
+# Lead Blocks
+tile.adamantineplus:lead_ore.name=Lead Ore
+tile.adamantineplus:lead_block.name=Block of Lead
+# Silver Blocks
+tile.adamantineplus:silver_ore.name=Silver Ore
+tile.adamantineplus:silver_block.name=Block of Silver
+# Adamantine Blocks
+tile.adamantineplus:adamantine_ore.name=Adamantine Ore
+tile.adamantineplus:adamantine_block.name=Block of Adamantine
+# Machines
+tile.adamantineplus:strand_extractor.name=Strand Extractor
+container.strand_extractor=Strand Extractor
+tile.adamantineplus:wafer_weaver.name=Wafer Weaver
+container.wafer_weaver=Wafer Weaver
+tile.adamantineplus:adamantine_forge.name=Adamantine Forge
+container.adamantine_forge=Adamantine Forge
+
+##Tools##
+# Copper Tools
+item.adamantineplus:copper_sword.name=Copper Sword
+item.adamantineplus:copper_pickaxe.name=Copper Pickaxe
+item.adamantineplus:copper_axe.name=Copper Axe
+item.adamantineplus:copper_shovel.name=Copper Shovel
+item.adamantineplus:copper_hoe.name=Copper Hoe
+# Lead Tools
+item.adamantineplus:lead_sword.name=Lead Sword
+item.adamantineplus:lead_pickaxe.name=Lead Pickaxe
+item.adamantineplus:lead_axe.name=Lead Axe
+item.adamantineplus:lead_shovel.name=Lead Shovel
+item.adamantineplus:lead_hoe.name=Lead Hoe
+# Silver Tools
+item.adamantineplus:silver_sword.name=Silver Sword
+item.adamantineplus:silver_pickaxe.name=Silver Pickaxe
+item.adamantineplus:silver_axe.name=Silver Axe
+item.adamantineplus:silver_shovel.name=Silver Shovel
+item.adamantineplus:silver_hoe.name=Silver Hoe
+# Adamantine Tools
+item.adamantineplus:adamantine_sword.name=Adamantine Sword
+item.adamantineplus:adamantine_pickaxe.name=Adamantine Pickaxe
+item.adamantineplus:adamantine_axe.name=Adamantine Axe
+item.adamantineplus:adamantine_shovel.name=Adamantine Shovel
+item.adamantineplus:adamantine_hoe.name=Adamantine Hoe
+
+##Armor##
+# Copper Armor
+item.adamantineplus:copper_helmet.name=Copper Helmet
+item.adamantineplus:copper_chestplate.name=Copper Chestplate
+item.adamantineplus:copper_leggings.name=Copper Leggings
+item.adamantineplus:copper_boots.name=Copper Boots
+# Lead Armor
+item.adamantineplus:lead_helmet.name=Lead Helmet
+item.adamantineplus:lead_chestplate.name=Lead Chestplate
+item.adamantineplus:lead_leggings.name=Lead Leggings
+item.adamantineplus:lead_boots.name=Lead Boots
+# Silver Armor
+item.adamantineplus:silver_helmet.name=Silver Helmet
+item.adamantineplus:silver_chestplate.name=Silver Chestplate
+item.adamantineplus:silver_leggings.name=Silver Leggings
+item.adamantineplus:silver_boots.name=Silver Boots
+# Adamantine Armor
+item.adamantineplus:adamantine_helmet.name=Adamantine Helmet
+item.adamantineplus:adamantine_chestplate.name=Adamantine Chestplate
+item.adamantineplus:adamantine_leggings.name=Adamantine Leggings
+item.adamantineplus:adamantine_boots.name=Adamantine Boots
+
+##Death Messages##
+death.attack.spiral_explosion.0=%1$s released the clowns.
+death.attack.spiral_explosion.0.again=%1$s released more clowns.
+death.attack.spiral_explosion.1=%1$s sinned.
+death.attack.spiral_explosion.1.again=%1$s sinned again.
+death.attack.spiral_explosion.2=%1$s is having Fun.
+death.attack.spiral_explosion.2.again=%1$s wanted more Fun.
+death.attack.spiral_explosion.3=%1$s dug carelessly.
+death.attack.spiral_explosion.3.again=%1$s once again dug carelessly.
+death.attack.spiral_explosion.stop=Breaking open the spirals is killing you, why do you keep doing it?
+
+######################
+# Tinkers' Construct #
+######################
+
+##Tinkers Items##
+# Electrum Items
+item.adamantineplus:electrum_nugget.name=Electrum Nugget
+item.adamantineplus:electrum_ingot.name=Electrum Ingot
+# Obsidian Items
+item.adamantineplus:obsidian_chip.name=Obsidian Chip
+item.adamantineplus:obsidian_gem.name=Obsidian Gem
+
+##Tinkers Blocks##
+# Electrum Blocks
+tile.adamantineplus:electrum_block.name=Block of Electrum
+# Obsidian Blocks
+tile.adamantineplus:obsidian_glass.name=Obsidian Glass
+
+##Tinkers Materials##
+material.adamantine.name=Adamantine
+
+##Tinkers Traits##
+modifier.adamantine_edge.name=Adamantine Edge
+modifier.adamantine_edge.desc=§oDescription Title§r\nMain Description
+modifier.durable.name=Durable
+modifier.durable.desc=§oDescription Title§r\nMain Description
+modifier.durable.extra=Bonus Durability: +%s
+modifier.adamantine_resistance_armor.name=Adamantine Resistance
+modifier.adamantine_resistance_armor.desc=§oDescription Title§r\nMain Description
+modifier.durable_armor.name=modifier.durable.name
+modifier.durable_armor.desc=modifier.durable.desc
+modifier.durable_armor.extra=modifier.durable.extra
+
+##Tinkers Fluids##
+fluid.adamantine.name=Molten Adamantine
+
+######################
+#     Config GUI     #
+######################
+
+##Config Title##
+adamantineplus.config.title=Adamantine+ Config
+
+##General Config##
+adamantineplus.general.addsilver=Add Silver
+adamantineplus.general.addsilver.tooltip=If true, adds silver to the game.
+
+
+##Tinkers Integration Config##
+adamantineplus.general.tinker_integration=Tinkers' Integration
+adamantineplus.general.tinker_integration.tooltip=Settings that affect integration into Tinkers' Construct.
+#adamantineplus.general.tinker_integration.replacealubrassrecipe=Replace Aluminum Brass Alloy
+#adamantineplus.general.tinker_integration.replacealubrassrecipe.tooltip=If true, replaces aluminum brass alloy recipe (3 aluminum, 1 copper) with a more accurate one (9 brass, 1 aluminum)
+adamantineplus.general.tinker_integration.addelectrum=Add Electrum
+adamantineplus.general.tinker_integration.addelectrum.tooltip=If true, adds electrum for use in Tinkers' Construct.
+adamantineplus.general.tinker_integration.addobsidianitems=Add Obsidian items
+adamantineplus.general.tinker_integration.addobsidianitems.tooltip=If true, adds gem (ingot), chip (nugget) and glass (block) for obsidian.
+
+##World Gen Config##
+adamantineplus.general.world_gen=World Gen
+adamantineplus.general.world_gen.tooltip=Settings that affect the world generation of the mod.
+adamantineplus.general.world_gen.copperspawnheight=Copper Spawn Height
+adamantineplus.general.world_gen.copperspawnheight.tooltip=Sets the maximum spawn height for copper ore.
+adamantineplus.general.world_gen.copperspawnchances=Copper Spawn Chances
+adamantineplus.general.world_gen.copperspawnchances.tooltip=Sets the number of spawn chances for copper ore.
+adamantineplus.general.world_gen.leadspawnheight=Lead Spawn Height
+adamantineplus.general.world_gen.leadspawnheight.tooltip=Sets the maximum spawn height for lead ore.
+adamantineplus.general.world_gen.leadspawnchances=Lead Spawn Chances
+adamantineplus.general.world_gen.leadspawnchances.tooltip=Sets the number of spawn chances for lead ore.
+adamantineplus.general.world_gen.silverspawnheight=Silver Spawn Height
+adamantineplus.general.world_gen.silverspawnheight.tooltip=Sets the maximum spawn height for silver ore.
+adamantineplus.general.world_gen.silverspawnchances=Silver Spawn Chances
+adamantineplus.general.world_gen.silverspawnchances.tooltip=Sets the number of spawn chances for silver ore.
+adamantineplus.general.world_gen.spiralrarity=Spiral Rarity
+adamantineplus.general.world_gen.spiralrarity.tooltip=Sets the rarity (one in this value) of a spiral spawning.

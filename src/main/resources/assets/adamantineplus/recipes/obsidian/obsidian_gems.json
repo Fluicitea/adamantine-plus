@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:obsidian_gem"
+        }
+    ],
+    "ingredients": [ 
+        {"item": "adamantineplus:obsidian_glass"}
+    ],
+    "result": {
+        "item": "adamantineplus:obsidian_gem",
+        "count": 9
+    }
+}

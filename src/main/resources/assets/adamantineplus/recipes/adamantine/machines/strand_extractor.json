@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " a ",
+        "aFa",
+        "OOO"
+    ],
+    "key": {
+        "a": {
+            "item": "adamantineplus:extractor_arm"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:strand_extractor",
+        "count": 1
+    }
+}

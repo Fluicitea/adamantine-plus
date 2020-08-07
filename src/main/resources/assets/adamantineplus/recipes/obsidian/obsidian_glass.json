@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:obsidian_gem"
+        }
+    ],
+    "pattern": [
+        "OOO",
+        "OOO",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "item": "adamantineplus:obsidian_gem"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:obsidian_glass",
+        "count": 1
+    }
+}

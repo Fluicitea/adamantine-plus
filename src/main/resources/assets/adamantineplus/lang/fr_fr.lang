@@ -1,0 +1,182 @@
+######################
+#      Main Mod      #
+######################
+
+##Creative Tabs##
+itemGroup.adamantineplus.general=Adamantine+ Général
+itemGroup.adamantineplus.tools=Adamantine+ Outils
+itemGroup.adamantineplus.combat=Adamantine+ Armements
+
+##Items##
+# Copper Items
+item.adamantineplus:copper_nugget.name=Pépite de cuivre
+item.adamantineplus:copper_ingot.name=Lingot de cuivre
+# Lead Items
+item.adamantineplus:lead_nugget.name=Pépite de plomb
+item.adamantineplus:lead_ingot.name=Lingot de plomb
+# Silver Items
+item.adamantineplus:silver_nugget.name=Pépite d'argent
+item.adamantineplus:silver_ingot.name=Lingot d'argent
+# Adamantine Items
+item.adamantineplus:raw_adamantine.name=Adamantine Brut
+item.adamantineplus:adamantine_strand.name=Brin de adamantine
+item.adamantineplus:adamantine_wafer.name=Gaufrette de adamantine
+item.adamantineplus:iron_rod.name=Tringle de fer
+item.adamantineplus:extractor_arm.name=Bras de extracteur
+item.adamantineplus:weaver_arm.name=Bras de tisserand
+item.adamantineplus:dwarven_scroll.name=Manuscrit à la naine
+
+##Blocks##
+# Copper Blocks
+tile.adamantineplus:copper_ore.name=Minerai de cuivre
+tile.adamantineplus:copper_block.name=Bloc de cuivre
+# Lead Blocks
+tile.adamantineplus:lead_ore.name=Minerai de plomb
+tile.adamantineplus:lead_block.name=Bloc de plomb
+# Silver Blocks
+tile.adamantineplus:silver_ore.name=Minerai d'argent
+tile.adamantineplus:silver_block.name=Bloc d'argent
+# Adamantine Blocks
+tile.adamantineplus:adamantine_ore.name=Minerai de adamantine
+tile.adamantineplus:adamantine_block.name=Bloc de adamantine
+# Machines
+tile.adamantineplus:strand_extractor.name=Extracteur de brins
+container.strand_extractor=Extracteur de brins
+tile.adamantineplus:wafer_weaver.name=Tisserand de gaufrette
+container.wafer_weaver=Tisserand de gaufrette
+tile.adamantineplus:adamantine_forge.name=Forger de adamantine
+container.adamantine_forge=Forger de adamantine
+
+##Tools##
+# Copper Tools
+item.adamantineplus:copper_sword.name=Épée de cuivre
+item.adamantineplus:copper_pickaxe.name=Pioche de cuivre
+item.adamantineplus:copper_axe.name=Hache de cuivre
+item.adamantineplus:copper_shovel.name=Pelle de cuivre
+item.adamantineplus:copper_hoe.name=Comment de cuivre
+# Lead Tools
+item.adamantineplus:lead_sword.name=Épée de plomb
+item.adamantineplus:lead_pickaxe.name=Pioche de plomb
+item.adamantineplus:lead_axe.name=Hache de plomb
+item.adamantineplus:lead_shovel.name=Pelle de plomb
+item.adamantineplus:lead_hoe.name=Comment de plomb
+# Silver Tools
+item.adamantineplus:silver_sword.name=Épée d'argent
+item.adamantineplus:silver_pickaxe.name=Pioche d'argent
+item.adamantineplus:silver_axe.name=Hache d'argent
+item.adamantineplus:silver_shovel.name=Pelle d'argent
+item.adamantineplus:silver_hoe.name=Comment d'argent
+# Adamantine Tools
+item.adamantineplus:adamantine_sword.name=Épée de adamantine
+item.adamantineplus:adamantine_pickaxe.name=Pioche de adamantine
+item.adamantineplus:adamantine_axe.name=Hache de adamantine
+item.adamantineplus:adamantine_shovel.name=Pelle de adamantine
+item.adamantineplus:adamantine_hoe.name=Comment de adamantine
+
+##Armor##
+# Copper Armor
+item.adamantineplus:copper_helmet.name=Casque de cuivre
+item.adamantineplus:copper_chestplate.name=Plastron de cuivre
+item.adamantineplus:copper_leggings.name=Jambières de cuivre
+item.adamantineplus:copper_boots.name=Sabaton de cuivre
+# Lead Armor
+item.adamantineplus:lead_helmet.name=Casque de plomb
+item.adamantineplus:lead_chestplate.name=Plastron de plomb
+item.adamantineplus:lead_leggings.name=Jambières de plomb
+item.adamantineplus:lead_boots.name=Sabaton de plomb
+# Silver Armor
+item.adamantineplus:silver_helmet.name=Casque d'argent
+item.adamantineplus:silver_chestplate.name=Plastron d'argent
+item.adamantineplus:silver_leggings.name=Jambières d'argent
+item.adamantineplus:silver_boots.name=Sabaton d'argent
+# Adamantine Armor
+item.adamantineplus:adamantine_helmet.name=Casque de adamantine
+item.adamantineplus:adamantine_chestplate.name=Plastron de adamantine
+item.adamantineplus:adamantine_leggings.name=Jambières de adamantine
+item.adamantineplus:adamantine_boots.name=Sabaton de adamantine
+
+##Death Messages##
+death.attack.spiral_explosion.0=%1$s libéré le pitres.
+death.attack.spiral_explosion.0.again=%1$s libéré plus pitres.
+death.attack.spiral_explosion.1=%1$s péché.
+death.attack.spiral_explosion.1.again=%1$s péché encore.
+death.attack.spiral_explosion.2=%1$s est ayant Amusement.
+death.attack.spiral_explosion.2.again=%1$s voulait plus Amusement.
+death.attack.spiral_explosion.3=%1$s creuser négligemment.
+death.attack.spiral_explosion.3.again=%1$s creuser négligemment de nouveau.
+death.attack.spiral_explosion.stop=S'ouvrir la spirale te tué, pourquoi continuez-vous à le faire?
+
+######################
+# Tinkers' Construct #
+######################
+
+##Tinkers Items##
+# Electrum Items
+item.adamantineplus:electrum_nugget.name=Pépite d'électrum
+item.adamantineplus:electrum_ingot.name=Lingot d'électrum
+# Obsidian Items
+item.adamantineplus:obsidian_chip.name=Fragment d'obsidienne
+item.adamantineplus:obsidian_gem.name=Gemme d'obsidienne
+
+##Tinkers Blocks##
+# Electrum Blocks
+tile.adamantineplus:electrum_block.name=Bloc d'électrum
+# Obsidian Blocks
+tile.adamantineplus:obsidian_glass.name=Verre d'obsidienne
+
+##Tinkers Materials##
+material.adamantine.name=Adamantine
+
+##Tinkers Traits##
+modifier.adamantine_edge.name=Bord de adamantine
+modifier.adamantine_edge.desc=§oDescription Title§r\nMain Description
+modifier.durable.name=Durable
+modifier.durable.desc=§oDescription Title§r\nMain Description
+modifier.durable.extra=Durabilité Augmenté: +%s
+modifier.adamantine_resistance_armor.name=Résistance de adamantine
+modifier.adamantine_resistance_armor.desc=§oDescription Title§r\nMain Description
+modifier.durable_armor.name=modifier.durable.name
+modifier.durable_armor.desc=modifier.durable.desc
+modifier.durable_armor.extra=modifier.durable.extra
+
+##Tinkers Fluids##
+fluid.adamantine.name=Adamantine en fusion
+
+######################
+#     Config GUI     #
+######################
+
+##Config Title##
+adamantineplus.config.title=Adamantine+ Configuration
+
+##General Config##
+adamantineplus.general.addsilver=Ajouter de l'Argent
+adamantineplus.general.addsilver.tooltip=Si vrai, ajoute de l'argent au jeu.
+
+##Tinkers Integration Config##
+adamantineplus.general.tinker_integration=L'intégration des Tinkers' Construct
+adamantineplus.general.tinker_integration.tooltip=Paramètres qui affectent l'intégration des Tinkers' Construct.
+#adamantineplus.general.tinker_integration.replacealubrassrecipe=Remplacer Alliage le Laiton d'Aluminum
+#adamantineplus.general.tinker_integration.replacealubrassrecipe.tooltip=Si vrai, remplace le recette de le laiton d'aluminium alliage (3 aluminum, 1 cuivre) avec une recette plus précise (9 laiton, 1 aluminum).
+adamantineplus.general.tinker_integration.addelectrum=Ajouter de l'Électrum
+adamantineplus.general.tinker_integration.addelectrum.tooltip=Si vrai, ajoute de l'électrum a utiliser avec Tinkers' Construct.
+adamantineplus.general.tinker_integration.addobsidianitems=Ajouter articles de l'obsidienne
+adamantineplus.general.tinker_integration.addobsidianitems.tooltip=Si vrai, ajoute gemme (lingot), fragment (pépite) et verre (bloc) pour obsidienne.
+
+##World Gen Config##
+adamantineplus.general.world_gen=Génération du Monde
+adamantineplus.general.world_gen.tooltip=Paramètres qui affectent le génération du monde de le mod.
+adamantineplus.general.world_gen.copperspawnheight=Hauteur de Génération de le Cuivre
+adamantineplus.general.world_gen.copperspawnheight.tooltip=Déterminer le hauteur maximum pour génération de le minerai de cuivre.
+adamantineplus.general.world_gen.copperspawnchances=Chances de Génération de le Cuivre
+adamantineplus.general.world_gen.copperspawnchances.tooltip=Déterminer le quantité de chances pour génération de le minerai de cuivre.
+adamantineplus.general.world_gen.leadspawnheight=Hauteur de Génération de le Plomb
+adamantineplus.general.world_gen.leadspawnheight.tooltip=Déterminer le hauteur maximum pour génération de le minerai de plomb.
+adamantineplus.general.world_gen.leadspawnchances=Chances de Génération de le Plomb
+adamantineplus.general.world_gen.leadspawnchances.tooltip=Déterminer le quantité de chances pour génération de le minerai de plomb.
+adamantineplus.general.world_gen.silverspawnheight=Hauteur de Génération de l'Argent
+adamantineplus.general.world_gen.silverspawnheight.tooltip=Déterminer le hauteur maximum pour génération de le minerai de argent.
+adamantineplus.general.world_gen.silverspawnchances=Chances de Génération de l'Argent
+adamantineplus.general.world_gen.silverspawnchances.tooltip=Déterminer le quantité de chances pour génération de le minerai de argent.
+adamantineplus.general.world_gen.spiralrarity=Rareté de Spirale
+adamantineplus.general.world_gen.spiralrarity.tooltip=Déterminer le rareté (un dans cette valeur) pour génération de spirale.

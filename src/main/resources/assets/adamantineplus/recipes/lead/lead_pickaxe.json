@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        " s ",
+        " s "
+    ],
+    "key": {
+        "L": {
+            "item": "adamantineplus:lead_ingot"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:lead_pickaxe",
+        "count": 1
+    }
+}

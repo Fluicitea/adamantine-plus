@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ 
+        {"item": "adamantineplus:adamantine_block"}
+    ],
+    "result": {
+        "item": "adamantineplus:adamantine_wafer",
+        "count": 9
+    }
+}

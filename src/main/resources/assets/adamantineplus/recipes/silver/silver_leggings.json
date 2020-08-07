@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        { 
+            "type": "minecraft:item_exists",
+            "item": "adamantineplus:silver_ingot"
+        }
+    ],
+    "pattern": [
+        "SSS",
+        "S S",
+        "S S"
+    ],
+    "key": {
+        "S": {
+            "item": "adamantineplus:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "adamantineplus:silver_helmet",
+        "count": 1
+    }
+}
